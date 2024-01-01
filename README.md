@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonGarcia25
-- 👀 I’m interested in Web Development. 
-- 🌱 I’m currently learning React.js. 
+- 👀 I’m interested in Software Engineering. 
+- 🌱 I’m currently learning Web Development (Full Stack).
 - 📫 How to reach me => (https://www.linkedin.com/in/brandon-garc%C3%ADa-alvarado/)
 
 <!---
