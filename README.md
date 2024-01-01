@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonGarcia25
 - 👀 I’m interested in Software Engineering. 
-- 🌱 I’m currently learning Web Development (Full Stack).
+- 🌱 I’m currently learning Web Development (Full Stack) at Ironhack.
 - 📫 How to reach me => (https://www.linkedin.com/in/brandon-garc%C3%ADa-alvarado/)
 
 <!---
